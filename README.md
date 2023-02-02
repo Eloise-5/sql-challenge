@@ -1,3 +1,3 @@
 # sql-challenge
 
-Please see file 'sql-challenge-output.sql' in 'Output' for Postgres queries
+Please see file 'sql-challenge-queries.sql' in 'Output' for Postgres queries
